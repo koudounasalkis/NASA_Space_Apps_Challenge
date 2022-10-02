@@ -1,6 +1,8 @@
 # **ρBerTO** -- A _RoboTO_ solution to the NASA Space Apps Challenge
 Proposed solution for the "Save the Earth from another Carrington Event"
 
+![ρBerTO](copertina.png)
+
 ## High-Level Project Description
 The project describes a Machine Learning approach for the Carrington Event data comprehension. 
 We propose an innovative approach for tackling the problem of the prediction of symptoms related to possible Carrington Events, leveraging on a powerful Deep Learning Architecture. 
